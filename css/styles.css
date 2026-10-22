@@ -112,6 +112,15 @@ h1 span {
     font-size: 2rem;
 }
 
+.project-link {
+    color: var(--navy);
+    text-decoration-color: var(--teal);
+}
+
+.project-link:hover {
+    text-decoration-thickness: 3px;
+}
+
 footer {
     background: var(--navy);
     color: white;
