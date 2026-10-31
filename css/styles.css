@@ -115,6 +115,8 @@ h1 span {
 .project-link {
     color: var(--navy);
     text-decoration-color: var(--teal);
+    display: inline-block;
+    margin-right: 15px;
 }
 
 .project-link:hover {
